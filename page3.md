@@ -2,7 +2,7 @@
 title: This will be used as the title-tag of the page head
 ---
 
-![Bilby Stampede](http://example.com/images/logo.png)
+![cloudify](http://b.vimeocdn.com/ts/365/804/365804355_150.jpg)
 
 ### Welcome to GitHub Pages.
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
