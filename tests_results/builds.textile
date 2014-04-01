@@ -1,0 +1,7 @@
+---
+layout: default
+title: Builds
+---
+
+|_. Build Number |_. Date |
+| "1.0.6":./1.0.6/tests_table.html | 1.1.2014 |
