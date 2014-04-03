@@ -4,4 +4,4 @@ title: Tests
 ---
 
 |_. Test |_. Log |
-| test_bootstrap | "test_bootstrap.txt":./logs/test_bootstrap.txt |
+| test_bootstrap | "test_bootstrap.log":https://s3-eu-west-1.amazonaws.com/cosmo-quality/1.0.7/test_bootstrap.log |

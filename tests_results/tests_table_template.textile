@@ -1,0 +1,7 @@
+---
+layout: default
+title: Tests
+---
+
+|_. Test |_. Log |
+| <test_name> | "<test_name>.log":path |

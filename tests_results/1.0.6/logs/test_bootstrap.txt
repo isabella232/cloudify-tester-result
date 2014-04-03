@@ -1,1 +1,0 @@
-2014-03-31 16:17:53,992 [INFO] log_mock_testing
